@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 kubricdockerhub/kubruntu
+nvidia/cuda:11.0.3-devel-ubuntu20.04
