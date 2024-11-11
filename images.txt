@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 kubricdockerhub/kubruntu
 nvidia/cuda:11.0.3-devel-ubuntu20.04
+nytimes/blender:2.93-gpu-ubuntu18.04
